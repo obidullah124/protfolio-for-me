@@ -80,3 +80,37 @@ P{
 
 }
 
+.last-section h2{
+   color: darkorange;
+}
+.last-section{
+   display: flex;
+   width: 80%;
+   margin-left: 5%;
+   margin-right: 5%;
+   margin-bottom: 300px;
+}
+
+.last-section div{
+   width:50%;
+   text-align: center;
+   margin-left: 100px;
+   box-shadow: 10px 10px 50px grey;
+}
+
+.work{
+   border-left: 10px solid blue;
+}
+
+.kaj{
+   border-left: 10px solid #790505;
+}
+
+.expo{
+   font-size: 50px;
+   font-weight: 900;
+}
+
+footer{
+   text-align: center;
+}
