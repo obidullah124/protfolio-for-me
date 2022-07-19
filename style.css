@@ -114,3 +114,8 @@ P{
 footer{
    text-align: center;
 }
+
+.last-section-in-page{
+   background-image: url('Image/last.png');
+   background-repeat: no-repeat;
+}
